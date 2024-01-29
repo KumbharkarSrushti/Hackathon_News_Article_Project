@@ -4,10 +4,8 @@ const Home=()=>{
     <div className="container">
       <div className="row">
         <div className="col-sm-12 box1"></div>
-        <div className="col-sm-12 box2">
-        <h1 style={{ fontSize: "90px", marginLeft:"277px" }}>NewsAPI</h1>
-          <img className="dot" src="/Ellipse 1.png" alt="Picture of the author"></img>
-          <h2 style={{ fontSize: "90px", marginLeft:"730px"}} className="org">Org</h2>
+        <div className="d-flex justify-content-center box2">
+          <img className="" src="/Frame 7.png" alt="Picture of the author"></img>
         </div>
         <div className="col-sm-12 box3"></div>
       </div>
